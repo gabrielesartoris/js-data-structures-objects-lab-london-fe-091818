@@ -10,3 +10,6 @@ function deleteFromDriverByKey() {
   
 }
 
+function destructivelyDeleteFromDriverByKey() {
+  
+}
